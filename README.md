@@ -80,7 +80,6 @@ The Digital Marketing Application is a comprehensive e-commerce platform that en
 
 
 
-
 :white_check_mark:Sales Report:partying_face:
 
 
