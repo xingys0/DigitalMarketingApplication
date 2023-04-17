@@ -7,7 +7,7 @@ This is my java project - Digital Marketing Application🔥
 
 The Digital Marketing Application is a comprehensive e-commerce platform that enables businesses to sell their products or services online. The system could provide customers with an intuitive and personalized shopping experience, while also meeting the business's operational needs. The system  allows customers to browse products, place orders, and manage their accounts, while also providing businesses with a suite of tools for managing their inventory, orders, payments, and customer relationships.
 
-
+  
 
 ⭐Functional Specification⭐
 
